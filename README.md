@@ -27,11 +27,14 @@
 </div>
 
 ---
+
 ### 👨‍💻 About me :
 - 👨‍🎓 I'm currently the first year of Computer Science in University of Information Technology in Vietnam
 - 🔭 I have been a freelancer in Wordpress and Full-stack web developer
 - 📖 In my free time, I research more about data science and machine learning
+
 --- 
+
 ### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" />
@@ -49,8 +52,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" />
 </div>
+
 ---
+
 ### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thanhhai147&theme=tokyonight_duo&border_radius=10)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhai147)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhai147&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
