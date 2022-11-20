@@ -30,7 +30,7 @@
 
 ### 👨‍💻 About me :
 - 👨‍🎓 I'm currently the first year of Computer Science in University of Information Technology in Vietnam
-- 🔭 I have been a freelancer in Wordpress and Full-stack web developer
+- 🔭 I have been a freelancer in Wordpress and Full-stack web developing
 - 📖 In my free time, I research more about data science and machine learning
 
 --- 
