@@ -45,6 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" />
