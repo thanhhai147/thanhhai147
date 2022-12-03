@@ -19,7 +19,7 @@
 </div>
 
 <div id="view-counter" align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=ffd717" />
+    <img src="https://komarev.com/ghpvc/?username=thanhhai147&style=flat-square&color=ffd717" />
 </div>
 
 <div id="banner" align="center">
